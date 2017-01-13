@@ -7,7 +7,7 @@
         <sys_class_name>sp_css_include</sys_class_name>
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2016-12-05 17:55:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>51101dc913a722001098b5f12244b072</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>angular-ui-tree-min.css</sys_name>

@@ -8,7 +8,7 @@
         <sys_class_name>sp_dependency</sys_class_name>
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2016-12-05 20:27:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ccd231c913e722001098b5f12244b005</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Angular UI tree</sys_name>

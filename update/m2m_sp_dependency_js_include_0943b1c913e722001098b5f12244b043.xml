@@ -7,7 +7,7 @@
         <sys_class_name>m2m_sp_dependency_js_include</sys_class_name>
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2016-12-05 20:28:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0943b1c913e722001098b5f12244b043</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Angular UI tree.Angular UI Tree Script</sys_name>

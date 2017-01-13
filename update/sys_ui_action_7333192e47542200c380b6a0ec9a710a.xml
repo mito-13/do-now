@@ -30,7 +30,6 @@ gr.insert();]]></script>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
         <show_update>false</show_update>
-        <style>primary</style>
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-01 21:12:03</sys_created_on>
